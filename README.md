@@ -48,6 +48,8 @@ A curated list of awesome projects and papers for distributed training or infere
 
 - [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/abs/1802.09941) by Tal Ben-Nun et al., ACM Computing Surveys 2020
 - [A Survey on Auto-Parallelism of Neural Networks Training](https://www.techrxiv.org/articles/preprint/A_Survey_on_Auto-Parallelism_of_Neural_Networks_Training/19522414) by Peng Liang., techrxiv 2022
+- [Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions] (https://arxiv.org/pdf/2503.16585) by M. Hadi Amini et al (arXiv'25) 
+
 
 ### Pipeline Parallelism
 
